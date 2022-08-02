@@ -9,5 +9,9 @@ print("modificacion para el cuarto commit")
 
 print("modificacion hecha unicamente en la rama master")
 
+print("modificacion hecha desde la tercera rama")
 
-print("modificacion A rama master para hacer merge")
+
+##
+
+print("Modificacion rama master para probar merge con conflictos desde interfaz de vscode")
