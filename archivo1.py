@@ -15,3 +15,5 @@ print("modificacion hecha desde la tercera rama")
 ##
 
 print("Modificacion rama master para probar merge con conflictos desde interfaz de vscode")
+
+print("modificacion hecha desde terceraRama para probar merge con interfaz grafica")
